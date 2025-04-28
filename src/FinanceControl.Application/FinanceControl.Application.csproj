@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Marten" Version="7.40.1" />
+    <PackageReference Include="WolverineFx.Http" Version="3.12.2" />
+    <PackageReference Include="WolverineFx.Marten" Version="3.12.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinanceControl.Contracts\FinanceControl.Contracts.csproj" />
+    <ProjectReference Include="..\FinanceControl.Domain\FinanceControl.Domain.csproj" />
+    <ProjectReference Include="..\FinanceControl.Shared\FinanceControl.Shared.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,5 @@
+C:\Users\Murillo\source\repos\FinanceControl\src\FinanceControl.Api\obj\Debug\net8.0\FinanceControl.Api.csproj.AssemblyReference.cache
+C:\Users\Murillo\source\repos\FinanceControl\src\FinanceControl.Api\obj\Debug\net8.0\FinanceControl.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Murillo\source\repos\FinanceControl\src\FinanceControl.Api\obj\Debug\net8.0\FinanceControl.Api.AssemblyInfoInputs.cache
+C:\Users\Murillo\source\repos\FinanceControl\src\FinanceControl.Api\obj\Debug\net8.0\FinanceControl.Api.AssemblyInfo.cs
+C:\Users\Murillo\source\repos\FinanceControl\src\FinanceControl.Api\obj\Debug\net8.0\FinanceControl.Api.csproj.CoreCompileInputs.cache

@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.4" />
+    <PackageReference Include="WolverineFx.Kafka" Version="3.12.2" />
+    <PackageReference Include="WolverineFx.Marten" Version="3.12.2" />
+    <PackageReference Include="WolverineFx.MemoryPack" Version="3.12.2" />
+    <PackageReference Include="WolverineFx.Postgresql" Version="3.12.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FinanceControl.Application\FinanceControl.Application.csproj" />
+    <ProjectReference Include="..\FinanceControl.Domain\FinanceControl.Domain.csproj" />
+    <ProjectReference Include="..\FinanceControl.Shared\FinanceControl.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
